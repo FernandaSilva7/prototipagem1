@@ -6,7 +6,7 @@ Neste arquivo, inicialmente, você vai responder estas perguntas:
 
 1) vai ser desenvolvido em qual linguagem?
 2) Qual é a equipe?
-3) Qual é a parte de cada um netse projeto?
+3) Qual é a parte de cada um neste projeto?
 4) Porque vocês utilizaram esta linguagem?
 5) é compatível com quais sistemjas operacionais? Se for site, é responsivo?
 
